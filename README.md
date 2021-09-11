@@ -20,7 +20,7 @@ This installation process is for locally hosted clones of this repository:
 MIT License
 
 ## Screenshot
-
+![Capture](https://user-images.githubusercontent.com/82350938/132932061-e264b3a1-032a-4eba-a5eb-78c30d948319.JPG)
 
 ## Credits
 ### Assets
